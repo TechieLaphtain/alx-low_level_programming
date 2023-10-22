@@ -7,7 +7,7 @@
  * Return: Always 0
  */
 
-int maim(void)
+int main(void)
 
 {
 
