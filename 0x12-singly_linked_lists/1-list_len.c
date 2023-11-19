@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include "lists.h"
 
-
 /**
 * list_len - check the code for ALX School students.
 * @h: name of the list
